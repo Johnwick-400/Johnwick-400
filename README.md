@@ -31,7 +31,7 @@ About Me:
 <a href = "mailto:manisankarchintagunti@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_red"></a>
  </div>
 
-![](https://visitcount.itsvg.in/api?id=Jhonwick-400&icon=0&color=4)
+![](https://visitcount.itsvg.in/api?id=Johnwick-400&icon=0&color=4)
 
  <!--  ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/manisankar001)  -->
