@@ -26,7 +26,7 @@ About Me:
 | :-: | :-: |
   
   <div align="center"> 
-<a href="https://www.linkedin.com/in/veesam-parasuram-pavan-teja-466b97238/?originalSubdomain=in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/pavantejveesam" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href = "mailto:pavantejveesam26@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_red"></a>
  </div>
 
