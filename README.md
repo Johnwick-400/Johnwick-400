@@ -9,7 +9,7 @@ About Me:
 <br>🤝 I’m looking for help with internship recommendations
 <br>🌱 I’m currently learning AI/ML  and Web Developing
 <br>⚡ Fun fact: I am a Computer enthusiastic.
-<br> This is my portfolio (https://pavantejveeesam.vercel.app/#)
+<br> This is my portfolio (https://johnwick-400.github.io/)
 
 
 
