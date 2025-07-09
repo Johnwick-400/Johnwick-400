@@ -1,10 +1,10 @@
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=88C0D0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Parusuram+Pavan+Teja+Veesam;I'm+20+years+old;I'm+from+India;I'm+Graduating+Computer+Science+Major;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=88C0D0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Parusuram+Pavan+Teja+Veesam;I'm+21+years+old;I'm+from+India;I'm+Graduated+Computer+Science+Major;Be+Welcome!+:%29)
 
 
 About Me:
-🔭 I’m currently working on a ML Project
+🔭 I’m currently looking for a Job Opportunity 
 <br>👯 I’m looking to collaborate on more projects and internships
 <br>🤝 I’m looking for help with internship recommendations
 <br>🌱 I’m currently learning AI/ML  and Web Developing
