@@ -4,13 +4,7 @@
 
 
 About Me:
-🔭 I’m currently looking for a Job Opportunity 
-<br>👯 I’m looking to collaborate on more projects and internships
-<br>🤝 I’m looking for help with internship recommendations
-<br>🌱 I’m currently learning AI/ML  and Web Developing
-<br>⚡ Fun fact: I am a Computer enthusiastic.
-<br> This is my portfolio (https://johnwick-400.github.io/)
-
+I’m currently working as an Associate Machine Learning Engineer at HiringHood, where I contribute to building intelligent, AI-driven recruitment solutions and automation systems.I completed my B.Tech in Computer Science Engineering from Lendi Institute of Engineering and Technology with a CGPA of 8.10. I have a strong passion for Machine Learning, Data Science, and Generative AI, and I’ve strengthened my expertise through multiple certifications and hands-on project experience.In addition to my full-time role, I’ve worked on real-time freelance projects across various domains, which has helped me apply AI and full-stack technologies to solve practical, real-world problems.Always eager to learn, build, and innovate — especially in the world of AI and intelligent automation.
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
